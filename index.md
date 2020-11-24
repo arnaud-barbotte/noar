@@ -1,9 +1,9 @@
----
+<!-----
 title: Welcome
 header: make some …
----
+--->
 
-# Getting Started
+# welcome
 
 Welcome to [crypto](). Here's a quick how-to guide to get you up and running. Feel free to delete this file from your Pancake.io folder at any time.
 
