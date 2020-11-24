@@ -1,6 +1,6 @@
 ---
 title: Welcome to pancake
-header: 
+header: make some …
 ---
 
 # Getting Started
