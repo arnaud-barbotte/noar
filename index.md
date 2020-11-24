@@ -1,11 +1,11 @@
 ---
-title: Welcome to pancake
+title: Welcome
 header: make some …
 ---
 
 # Getting Started
 
-Welcome to [pancake](http://make.pancakeapps.io). Here's a quick how-to guide to get you up and running. Feel free to delete this file from your Pancake.io folder at any time.
+Welcome to [crypto](). Here's a quick how-to guide to get you up and running. Feel free to delete this file from your Pancake.io folder at any time.
 
 <ul>
   <li class='icon-fire'><a href='http://blog.pancake.io'>Blog</a></li>
