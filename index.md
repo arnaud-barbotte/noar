@@ -1,7 +1,4 @@
----
-title: Welcome to pancake
-header: faire des pancakes
----
+
 
 # Getting Started
 
@@ -14,3 +11,6 @@ Welcome to [pancake](http://make.pancakeapps.io). Here's a quick how-to guide to
   <li class='icon-twitter-sign'><a href='http://twitter.com/pancakeio'>@pancakeio</a></li>
   <li class='icon-github-sign'><a href='http://github.com/pancakeio'>Github</a></li>
 </ul>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTIzNDYwNzM3NF19
+-->
